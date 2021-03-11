@@ -8,7 +8,7 @@ These are guided projects that I have worked on [Dataquest](http://www.dataquest
 
 - [Handwritten Digit Classifier](https://github.com/MohFarahani/DataScienceTutorials/blob/main/Machine_Learning/HandwrittenDigitClassifier.ipynb)
 
-- [Predicting Car Prices](https://github.com/MohFarahani/DataScienceTutorials/blob/main/Machine_Learning/Predicting_Car_Prices.ipynb): Train and test K-Nearest Neighbors models on a data set of car features to predict price.
+- [Predicting Car Prices](https://github.com/MohFarahani/DataScienceTutorials/blob/main/Machine_Learning/Predicting_Car_Prices.ipynb)
 
 - ### SQL
 
