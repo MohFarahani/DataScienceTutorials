@@ -1,6 +1,6 @@
 # DataScienceTutorials
 
-These are guided projects that I have worked on  Dataquest [DataQuest](http://www.dataquest.io) platform. 
+These are guided projects that I have worked on [Dataquest](http://www.dataquest.io) platform. 
 
 ## Contents
 
