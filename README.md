@@ -10,7 +10,7 @@ These are guided projects that I have worked on [Dataquest](http://www.dataquest
 
 - [Predicting Car Prices](https://github.com/MohFarahani/DataScienceTutorials/blob/main/Machine_Learning/Predicting_Car_Prices.ipynb)
 
--[Predicting House Sale Prices](https://github.com/MohFarahani/DataScienceTutorials/blob/main/Machine_Learning/Predicting_House_Sale_Prices.ipynb)
+- [Predicting House Sale Prices](https://github.com/MohFarahani/DataScienceTutorials/blob/main/Machine_Learning/Predicting_House_Sale_Prices.ipynb)
 
 - ### SQL
 
