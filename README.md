@@ -12,6 +12,8 @@ These are guided projects that I have worked on [Dataquest](http://www.dataquest
 
 - [Predicting House Sale Prices](https://github.com/MohFarahani/DataScienceTutorials/blob/main/Machine_Learning/Predicting_House_Sale_Prices.ipynb)
 
+- [Predicting Bike Rentals](https://github.com/MohFarahani/DataScienceTutorials/blob/main/Machine_Learning/Predicting_Bike_Rentals.ipynb) 
+
 - ### SQL
 
 - [Analyzing CIA Factbook Data Using SQLite and Python](https://github.com/MohFarahani/DataScienceTutorials/blob/main/SQL/Analyzing_CIA_Factbook_Data.ipynb)
